@@ -1,0 +1,11 @@
+=== Generated schedule for mkTb_mac_wrap ===
+
+Rule schedule
+-------------
+Rule: answer
+Predicate: True
+Blocking rules: (none)
+ 
+Logical execution order: answer
+
+=============================================

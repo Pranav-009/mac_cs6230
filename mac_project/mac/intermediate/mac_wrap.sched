@@ -1,0 +1,11 @@
+=== Generated schedule for mac_wrap ===
+
+Method schedule
+---------------
+Method: getResult
+Ready signal: True
+Conflict-free: getResult
+ 
+Logical execution order: getResult
+
+========================================
